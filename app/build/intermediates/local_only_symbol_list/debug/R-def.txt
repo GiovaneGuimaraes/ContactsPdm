@@ -8,7 +8,9 @@ drawable ic_launcher_foreground
 id addressEt
 id contactsLv
 id emailEt
+id emailTv
 id nameEt
+id nameTv
 id phoneEt
 id saveBt
 id toolbar
@@ -16,11 +18,14 @@ id toolbarIn
 id viewMi
 layout activity_contact
 layout activity_main
+layout tile_contact
 layout toolbar
 menu menu_main
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string email
+string name
 style Base.Theme.ContactsPdm
 style Theme.ContactsPdm
 xml backup_rules
