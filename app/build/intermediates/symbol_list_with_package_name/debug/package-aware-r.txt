@@ -3252,6 +3252,7 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editContactMi
 id edit_query
 id edit_text_id
 id elastic
@@ -3444,6 +3445,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id removeContactMi
 id report_drawn
 id reverseSawtooth
 id right
@@ -3783,6 +3785,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout tile_contact
 layout toolbar
+menu context_menu_main
 menu menu_main
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -3834,6 +3837,7 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
+string edit_contact
 string email
 string error_a11y_label
 string error_icon_content_description
@@ -3949,6 +3953,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string remove_contact
 string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
